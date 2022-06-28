@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onnyx1.
 - 👀 I’m interested in web development, game design, and software engineering.
--🌱 I’m currently learning HTML, CSS, JavaScript, and Java (Spring).
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Java (Spring).
 - 💞️ I’m looking forward to creating my own game/website and learning new languages.   
 - 📫 How to reach me --> sretcher@gmail.com.
 
