@@ -2,7 +2,7 @@
  👀 I’m interested in web development, game design, and software engineering. <br/>
  🌱 I’m currently learning HTML, CSS, JavaScript, and Java (Spring). <br/>
  💞️ I’m looking forward to creating my own game/website and learning new languages.   <br/>
- 📫 How to reach me --> sretcher@gmail.com. <br/>
+ 📫 How to reach me --> spencer.retcher1@gmail.com. <br/>
 <br/>
 <br/>
  💼 I would love to work as an intern or a junior developer! <br/>
